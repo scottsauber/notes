@@ -111,6 +111,21 @@ Listened to on Audible
 
 # 5. Inattention to Results
 
+- The most important dysfunction is to care about something other than the team's goals.
+- Every organization specifies what it wants to achieve in a certain time period.
+- Team status or individual status take away from the team's goals.
+
+### Tools to encourage attention to results
+
+- Reward teams, not individuals.
+- Make public proclamations about intended success. Teams that are willing to commit publicly are more likely to work passionately to achieve those results.
+- Results-based rewards - tie rewards (compensation) to specific outcomes. Getting a bonus for "trying hard" does not push a team. Doing this too often can be dangerous (and I would agree personally).
+
+### Role of Leader to encourage attention to results
+
+- If the team senses the leader values anything other than team results, they will gravitate towards that.
+- Team leaders must be selfless, objective, and reward those who achieve _group goals_.
+
 # Random notes
 
 - Someone who has their laptop open in meetings is often both distracted AND distracting. This shouldn't be allowed. If their response is "well this meeting isn't always relevant to me and the discussions should be had offline," a response could be something to the effect of "I think everyone should be willing to speak up and redirect the group of we get off topic in order to keep the meeting relevant to everyone."
