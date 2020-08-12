@@ -6,7 +6,7 @@ Listened to on Audible
 2. Fear of Conflict
 3. Lack of Commitment
 4. Avoidance of Accountability
-5. Inattention to Reults
+5. Inattention to Results
 
 # 1. Absence of Trust
 
@@ -40,7 +40,7 @@ Listened to on Audible
 - 360 Degree Feedback - riskiest of these. Requires peers to bring specific feedback and criticism. Should be divorced from compensation. It should be used as a developmental tool without any repercussions. If it's tied to compensation, then there will be politics.
 - Experiential Team Exercises - "Going out for beers" or "Escape Room." lowest form of building trust. Likely doesn't translate to working world. Personal Histories exercise is likely more effective.
 
-### Role of Leader
+### Role of Leader to build trust
 
 - Most important action is to demonstrate vulnerability first. This requires a vulnerability risk losing face in front of the team so team members will do the same.
 - Must be genuine, not staged. To feign vulnerability is to lose trust of the team permanently if they find out.
@@ -64,13 +64,53 @@ Listened to on Audible
 - Real-time permission - team members need to encourage each other to continue. Remind those getting uncomfortable that what they are doing is necessary. Gives those confidence to continue. Remind them this is good for the team.
 - TKI Conflict Mode Instrument
 
-### Role of Leader
+### Role of Leader to encourage conflict
 
 - Do not try to protect others from harm.
 - Deprives participants to develop conflict management skills.
 - Allow resolution to occur naturally.
 - Model ideal conflict behavior.
 
-## Random notes:
+# 3. Lack of Commitment
+
+- Commitment is a function of clarity and buy-in.
+- Great teams move forward with buy-in from the team, even those voted against the decision.
+- Two causes of lack of commitment - desire for consensus and need for certainty.
+- Reasonable human beings do not need to get their way every time, just that their needs have been heard and considered.
+- Understand that "a decision is better than no decision." Better to make a bold decision and pivot.
+
+### Tools to encourage commitment
+
+- Cascading messaging - team should review decisions at the end of the meeting and what needs communicated. Align and clarify before the meeting adjourns.
+- Deadlines - use of clear deadlines when decisions should be made.
+- Contingency and worst case scenario analysis - clarify worst case scenario if the decision goes wrong.
+
+### Role of Leader to encourage commitment
+
+- Needs to be able to make a decision that _could_ be wrong.
+- Do not place a high premium on certainty or consensus.
+
+# 4. Avoidance of Accountability
+
+- Teams often avoid difficult conversations.
+- If a team is close together they will avoid difficult conversations for fear of losing their relationship. Ironically, this actually is a short-term thing but long-term will cause resentment if not addressed.
+- Fear of letting down respected teammates is a powerful motivator to improve performance.
+
+### Tools to encourage accountability
+
+- Publication of goals and standards. (Roles too)
+- Enemy of accountability is ambiguity.
+- Simple, regular progress reviews. Regularly communicate with another on how teammates are doing
+- Team rewards over individual rewards.
+
+### Role of Leader to encourage accountability
+
+- Allow team to be first and primary accountability mechanism.
+- Accountability is not a consensus approach but a shared team responsibility.
+- Teams need to know they are responsible.
+
+# 5. Inattention to Results
+
+# Random notes
 
 - Someone who has their laptop open in meetings is often both distracted AND distracting. This shouldn't be allowed. If their response is "well this meeting isn't always relevant to me and the discussions should be had offline," a response could be something to the effect of "I think everyone should be willing to speak up and redirect the group of we get off topic in order to keep the meeting relevant to everyone."
