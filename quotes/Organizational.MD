@@ -5,3 +5,5 @@
 "If you are working on something exciting that you really care about, you don't have to be pushed. The vision pulls you." - Steve Jobs
 
 "Transformation comes more from pursuing profound questions than seeking practical answers"
+
+"Fear of losing control is a big barrier for change. Although much control is only an illusion of control, the fear is real and can't be ignored."
