@@ -10,4 +10,4 @@ Ideas I've come across for giving/receiving feedback. Arguably, the most importa
 
 4. End on a question. "How do you see it?" "This is what I think we should do, but what are you thoughts?" Makes a great problem solving situation.
 
-Ask your co-workers for feedback, don't want for it to come. Create a pull system, not a push.
+Ask your co-workers for feedback, don't wait for it to come. Create a pull system, not a push.
