@@ -1,0 +1,2 @@
+- If someone is non-commital, use options to surface wants.
+- There are many approaches for how to communicate. Being a good communicator means using the right tool for the job. A bad communicator forces _their_ style of communication on others. People who insist on always being "direct" are single note communicators and are using a hammer for every job.
