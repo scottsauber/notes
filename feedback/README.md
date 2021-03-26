@@ -11,3 +11,7 @@ Ideas I've come across for giving/receiving feedback. Arguably, the most importa
 4. End on a question. "How do you see it?" "This is what I think we should do, but what are you thoughts?" Makes a great problem solving situation.
 
 Ask your co-workers for feedback, don't wait for it to come. Create a pull system, not a push.
+
+## Trouble getting constructive feedback?
+
+When people hesitate to give honest feedback on an idea, draft, or performance, ask for a 0-10 score. No one ever says 10. Then ask how I can get closer to a 10. It motivates them to start coaching me and motivates me to be coachable. I want to learn how to close the gap.
