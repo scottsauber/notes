@@ -9,3 +9,5 @@
 "Scope doesn’t creep, understanding grows"
 
 "Be the thermostat, not the thermometer"
+
+"When’s the last time someone changed your mind?"

@@ -1,4 +1,2 @@
-- In response to "How long will that take" ask "How many dollars will this generate or save?"
 - Value > Velocity. "Stop optimizing for the amount of effort your development team spends. Start optimizing for the impact the feature makes on your customers. Delivering value is messy. Delivering value requires experimentation, trial and error, and room for reflection. By pushing your team to optimize the delivery of features, you kill the innovation and learning necessary to create a product that matters to your customers." - https://medium.com/better-programming/companies-that-obsess-over-velocity-are-clueless-about-scrum-f7654e9cab34
-- We don't ask the Carpenter how many nails he used.
-- Estimates are a confidence level not binary (70% confident it will be done)
+- "Good process is evolved, not designed."

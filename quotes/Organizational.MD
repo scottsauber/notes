@@ -7,3 +7,7 @@
 "Transformation comes more from pursuing profound questions than seeking practical answers"
 
 "Fear of losing control is a big barrier for change. Although much control is only an illusion of control, the fear is real and can't be ignored."
+
+"Risk is what’s left over when you think you’ve thought of everything."
+
+"Risk is the chance of an irreversibly bad outcome"
