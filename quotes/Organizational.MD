@@ -11,3 +11,5 @@
 "Risk is what’s left over when you think you’ve thought of everything."
 
 "Risk is the chance of an irreversibly bad outcome"
+
+"Great leaders give everyone something to believe in, not something to do."
