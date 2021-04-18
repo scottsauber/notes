@@ -4,7 +4,7 @@
   - How long will that application take to process?
   - How long does it take to build that deck?
 
-- The answer is almost always “well it depends” and then the light bulb usually starts to come on.
+  ... The answer is almost always “well it depends” and then the light bulb usually starts to come on.
 
 - Estimates are a confidence level not binary (70% confident it will be done)
 
