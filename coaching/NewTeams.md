@@ -1,0 +1,1 @@
+To get the lay of the land of current state for a new team. Have people identify where current state is of pipelines, test coverage, confidence in the software, etc. on a scale of 1-10 then map the answers out visually on a whiteboard.
