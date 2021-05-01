@@ -42,3 +42,7 @@ public void ShouldReturnErrorsForFirstNameWhenFirstNameIsNull()
 ```
 
 Setting up the customer's Address, MiddleName, and LastName is not relevant to the test, so it just adds noise. The second test is much more clear about what's actually being tested here.
+
+### Analogy
+
+An analogy to testing is Debits and Credits. Accountants use this to help double check their work. It's not perfect, but it helps find issues. Both are production.
