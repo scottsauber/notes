@@ -11,3 +11,7 @@
 - In response to "How long will that take" ask "How many dollars will this generate or save?"
 
 - We don't ask the Carpenter how many nails he used.
+
+- Story points aren't just about effort. They're also about uncertainty and risk. An 8 point story may not be 8x more effort than a 1 point story, but it might carry 8x more uncertainty and/or risk.
+
+- The magnitude of the story point estimate didn’t relate so much to the magnitude of the actual effort, but rather to the variation!
