@@ -3,3 +3,5 @@
   - Technical constraints
   - Technical training
   - Allowing silos to form
+
+Ironically, legacy in other contexts is the thing of value you leave to the next generation.
