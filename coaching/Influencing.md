@@ -1,0 +1,1 @@
+The difference between manipulation and influencing is your intent. If your intent is to get someone to do/say/think/act a certain way for your own advantage, that's manipulation. If your intent is for the person's benefit, that is not manipulation.
