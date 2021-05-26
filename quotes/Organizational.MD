@@ -15,3 +15,5 @@
 "Great leaders give everyone something to believe in, not something to do."
 
 "Nothing is someone else's problem"
+
+"Soil blames the seed and the seed blames the soil."
