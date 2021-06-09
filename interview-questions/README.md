@@ -13,7 +13,14 @@ Questions I like besides the "what SOLID principles have you memorized" type of 
 
 It's intentionally semi-ambiguous to see where they fill in the gaps and see if they ask any follow up questions.
 
-## Creating a PR for them to review
+### "Pairing" session
+
+- Something simple like a REST API that is empty
+- Failing integration test for the /{noun} call
+- See where they go... do they do TDD?  Do they add layers? Do they write new integration tests? 
+- Ping pong if it makes sense, although I don't mind being more of an observer here and asking questions
+
+### Creating a PR for them to review
 
 I like the idea of staging a PR for them to review. Some ideas to intentionally "plant" in your staged PR:
 
