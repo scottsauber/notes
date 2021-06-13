@@ -13,3 +13,5 @@
 "When's the last time someone changed your mind?"
 
 "It's all very, very simple. If I improve my tools/skills/knowledge, I'm faster next sprint. If I work harder, I'm no faster next sprint." – Tim Ottinger
+
+"Certainty is the enemy of growth."
