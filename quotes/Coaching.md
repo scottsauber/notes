@@ -15,3 +15,5 @@
 "It's all very, very simple. If I improve my tools/skills/knowledge, I'm faster next sprint. If I work harder, I'm no faster next sprint." – Tim Ottinger
 
 "Certainty is the enemy of growth."
+
+"We can't control the wind, but we can adjust the sails."
