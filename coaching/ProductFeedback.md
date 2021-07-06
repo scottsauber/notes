@@ -1,0 +1,2 @@
+- Complaints about missing features is valuable user feedback
+- When we didn't have anything, they were complaining that we didn't have anything. Now that we have something, they're complaining that we don't have enough. That's progress.
