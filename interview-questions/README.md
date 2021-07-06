@@ -2,6 +2,11 @@
 
 Questions I like besides the "what SOLID principles have you memorized" type of questions. In general, I care about two things _**attitude**_ and _**aptitude**_. Are you a positive influence on the team? Are you capable of learning? If you have those two things, I want you on my team.
 
+
+### Problem Solving in the dark
+
+- Talk to me about a time when you had to develop a solution without data in front of you to point you to the right solution.  How did you come to that solution and what led you to thinking it was correct?
+
 ### Asking about creating a brand new application:
 
 - What stack are you using?
