@@ -17,3 +17,5 @@
 "Nothing is someone else's problem"
 
 "Soil blames the seed and the seed blames the soil."
+
+"Empowerment presumes the organization has the power and bestows some of it to the employee. That's not autonomy. That's still control. People want autonomy, not empowerment."
