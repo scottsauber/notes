@@ -17,3 +17,5 @@
 "Certainty is the enemy of growth."
 
 "We can't control the wind, but we can adjust the sails."
+
+"A lot of people think programming is typing. It's not. It's thinking. Throwing away code is throwing away your typing, not your thinking."
