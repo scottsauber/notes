@@ -45,4 +45,8 @@ Setting up the customer's Address, MiddleName, and LastName is not relevant to t
 
 ### Analogy
 
-An analogy to testing is Debits and Credits. Accountants use this to help double check their work. It's not perfect, but it helps find issues. Both are production.
+An analogy to testing is Debits and Credits. Accountants use this to help double check their work. Both tests and debits/credits aren't perfect, but they help find issues. Both are production.
+
+### Mock all the things vs integration test all the things
+
+Mocking is a tradeoff.  You can get better defect localization, but it may come at the cost of reduced confidence and less ability to refactor (if your tests are implementation aware) without using other practices such as reconnect. Integration tests on the other hand, come at the cost of higher maintenance and less defect localization, but higher confidence and potentially more ability to refactor.  I don't openly choose which one is "best," the context around me helps inform which of these tradeoffs I'm willing to accept.
