@@ -17,6 +17,10 @@ Questions I like besides the "what SOLID principles have you memorized" type of 
 
 It's intentionally semi-ambiguous to see where they fill in the gaps and see if they ask any follow up questions.
 
+### Other Questions:
+
+- How do you stay current?
+
 ### Coaching
 
 - What interests you about being a coach over a tech lead?
