@@ -21,3 +21,5 @@
 "A lot of people think programming is typing. It's not. It's thinking. Throwing away code is throwing away your typing, not your thinking."
 
 "Assumptions blind, hypotheses guide"
+
+"People don't care what you know until they know that you care."
