@@ -20,6 +20,7 @@ It's intentionally semi-ambiguous to see where they fill in the gaps and see if 
 ### Other Questions:
 
 - How do you stay current?
+- What's your biggest problem at work and why haven't you solved it?
 
 ### Coaching
 
