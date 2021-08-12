@@ -21,3 +21,5 @@
 "Empowerment presumes the organization has the power and bestows some of it to the employee. That's not autonomy. That's still control. People want autonomy, not empowerment."
 
 "The pace of change has never been this fast, yet it will never be this slow again."
+
+"Do you want to get better at what you’re doing, or find a better way to get the results you want?"
