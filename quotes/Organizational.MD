@@ -23,3 +23,5 @@
 "The pace of change has never been this fast, yet it will never be this slow again."
 
 "Do you want to get better at what you’re doing, or find a better way to get the results you want?"
+
+"Train people well enough so they can leave, treat them well enough so they don't want to."
