@@ -23,3 +23,5 @@
 "Assumptions blind, hypotheses guide"
 
 "People don't care what you know until they know that you care."
+
+"Activity is not equivalent to Productivity"
