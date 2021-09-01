@@ -25,3 +25,5 @@
 "Do you want to get better at what you’re doing, or find a way to get better results."
 
 "Train people well enough so they can leave, treat them well enough so they don't want to."
+
+"Impediments are not in the path. Impediments are the path."
