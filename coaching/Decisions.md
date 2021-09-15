@@ -1,3 +1,5 @@
+### Avoiding Analysis Paralysis
+
 I like to categorize decisions by asking the question "What is the likelihood my app will fail if I make the wrong decision here?"
 
 > When I use the word "fail" here, I mean from the standpoint of both the app being able to deliver business value now and in the future
