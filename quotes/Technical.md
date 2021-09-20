@@ -5,3 +5,5 @@
 "Comments are often used as a deodorant."
 
 "Use before reuse"
+
+"If you can't build a well-structured monolith, what makes you think you can build a well-structured set of microservices?"
