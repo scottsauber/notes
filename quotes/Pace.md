@@ -1,0 +1,1 @@
+"To maintain the P/PC Balance, the balance between the golden egg (production) and the health and welfare of the goose (production capability) is often a difficult judgment call. But I suggest it is the very essence of effectiveness."
