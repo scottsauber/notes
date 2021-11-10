@@ -25,3 +25,5 @@
 "People don't care what you know until they know that you care."
 
 "Activity is not equivalent to Productivity"
+
+"Have more questions than assertions. More curiosity than contempt."
