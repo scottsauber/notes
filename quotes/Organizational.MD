@@ -29,3 +29,5 @@
 "Impediments are not in the path. Impediments are the path."
 
 "Reward and Punishment are both coercive. One just looks nicer."
+
+"Force is the weapon of the weak"
