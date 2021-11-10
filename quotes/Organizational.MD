@@ -27,3 +27,5 @@
 "Train people well enough so they can leave, treat them well enough so they don't want to."
 
 "Impediments are not in the path. Impediments are the path."
+
+"Reward and Punishment are both coercive. One just looks nicer."
