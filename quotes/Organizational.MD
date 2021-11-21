@@ -31,3 +31,5 @@
 "Reward and Punishment are both coercive. One just looks nicer."
 
 "Force is the weapon of the weak"
+
+"Enablement teams assumes other teams are disabled."
