@@ -15,3 +15,5 @@ Ask your co-workers for feedback, don't wait for it to come. Create a pull syste
 ## Trouble getting constructive feedback?
 
 When people hesitate to give honest feedback on an idea, draft, or performance, ask for a 0-10 score. No one ever says 10. Then ask how I can get closer to a 10. It motivates them to start coaching me and motivates me to be coachable. I want to learn how to close the gap.
+
+Resource: https://www.industriallogic.com/blog/advice-for-giving-feedback/
