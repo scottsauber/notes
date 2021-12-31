@@ -21,6 +21,7 @@ It's intentionally semi-ambiguous to see where they fill in the gaps and see if 
 
 - How do you stay current?
 - What's your biggest problem at work and why haven't you solved it?
+- How do you handle someone who has a different view than you?
 
 ### Coaching
 
