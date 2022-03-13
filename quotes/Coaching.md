@@ -29,3 +29,5 @@
 "Have more questions than assertions. More curiosity than contempt."
 
 "Getting 1% better every day makes you 3700% better at the end of the year."
+
+"Improving daily work is even more important than doing daily work." - Gene Kim, DevOps Handbook
