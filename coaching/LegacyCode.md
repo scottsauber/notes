@@ -9,3 +9,5 @@
 - Ironically, legacy in other contexts is the thing of value you leave to the next generation.
 
 - Opportunistic Refactoring, improving the code you want to improve when you need to change it. AKA Boy Scout rule
+
+- CRAP metric, Cyclomatic Complexity combined with code coverage - https://blog.ndepend.com/crap-metric-thing-tells-risk-code/
