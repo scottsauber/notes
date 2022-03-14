@@ -31,3 +31,5 @@
 "Getting 1% better every day makes you 3700% better at the end of the year."
 
 "Improving daily work is even more important than doing daily work." - Gene Kim, DevOps Handbook
+
+"Tell me and I forget. Teach me and I remember. Involve me and I learn." – Ben Franklin
