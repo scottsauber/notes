@@ -33,3 +33,5 @@
 "Force is the weapon of the weak"
 
 "Enablement teams assumes other teams are disabled."
+
+"The people in your organization are already self-organizing within the bounds of current constraints. Don't like the results? Look at the constraints."
