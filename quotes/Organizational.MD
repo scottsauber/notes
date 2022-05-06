@@ -35,3 +35,5 @@
 "Enablement teams assumes other teams are disabled."
 
 "The people in your organization are already self-organizing within the bounds of current constraints. Don't like the results? Look at the constraints."
+
+"Do you have a team or a workgroup?"
