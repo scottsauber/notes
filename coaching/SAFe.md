@@ -1,0 +1,3 @@
+- Bringing everyone together if they aren't working on the same things is like bringing the tennis team, football team, debate team, and band team together talking about how they will work together. They won't.
+- Agile is reacting to change. SAFe assumes you know where you're going.
+- SAFe is for risk averse people.
