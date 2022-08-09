@@ -33,3 +33,5 @@
 "Improving daily work is even more important than doing daily work." - Gene Kim, DevOps Handbook
 
 "Tell me and I forget. Teach me and I remember. Involve me and I learn." – Ben Franklin
+
+"Use the same recipe, get the same bread."
