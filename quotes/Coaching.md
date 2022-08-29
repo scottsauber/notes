@@ -35,3 +35,5 @@
 "Tell me and I forget. Teach me and I remember. Involve me and I learn." – Ben Franklin
 
 "Use the same recipe, get the same bread."
+
+"Replace judgements with curiosity"
