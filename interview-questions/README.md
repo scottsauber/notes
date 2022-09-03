@@ -22,6 +22,9 @@ It's intentionally semi-ambiguous to see where they fill in the gaps and see if 
 ### Other Questions:
 
 - How do you stay current?
+- How do you feel about pair programming?
+- What's your testing strategy?
+- When do you choose to rewrite vs. evolve?
 - What's your biggest problem at work and why haven't you solved it?
 - How do you handle someone who has a different view than you?
 
