@@ -37,3 +37,5 @@
 "The people in your organization are already self-organizing within the bounds of current constraints. Don't like the results? Look at the constraints."
 
 "Do you have a team or a workgroup?"
+
+"You adapt to whatever you tolerate. High standards are contagious. If you only work with people with high standards, you adapt. If you tolerate low standards, you adapt."
