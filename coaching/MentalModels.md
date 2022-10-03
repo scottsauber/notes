@@ -1,3 +1,5 @@
+More Mental Models: https://app.gumroad.com/d/7594db74b1a33d16625750b2f7475e9b
+
 Mental models do two things: they help you assess how things work and they help you make better decisions. These two concepts underlie everything you do.
 
 For example, how does a rocket engine work (system)? And which type of rocket fuel should you use (decision)?
