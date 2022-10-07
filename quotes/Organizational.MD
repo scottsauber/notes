@@ -39,3 +39,5 @@
 "Do you have a team or a workgroup?"
 
 "You adapt to whatever you tolerate. High standards are contagious. If you only work with people with high standards, you adapt. If you tolerate low standards, you adapt."
+
+"Culture is not what you preach, but what you tolerate."
