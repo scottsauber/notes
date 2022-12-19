@@ -3,3 +3,5 @@ This thread seems good: https://twitter.com/shreyas/status/1399042778613485578
 You have $100, where are you placing your bets?
 
 Requirements are an overconfident word for a hypothesis.
+
+Your product must be valuable, usable, feasible, and viable.
