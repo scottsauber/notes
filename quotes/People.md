@@ -9,3 +9,5 @@
 "Don't over-improve your weaknesses. If you're not good at something, work on it until it no longer prevents your progress, but the bulk of your time is better spent maximizing your strengths." - James Clear 
 
 "It is impossible for a man to learn what he thinks he already knows."
+
+"People gravitate toward the standard you set, not the standard you request."
