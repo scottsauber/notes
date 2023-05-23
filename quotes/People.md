@@ -11,3 +11,5 @@
 "It is impossible for a man to learn what he thinks he already knows."
 
 "People gravitate toward the standard you set, not the standard you request."
+
+“With gratitude, optimism is sustainable.” - Michael J Fox
