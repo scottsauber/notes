@@ -13,3 +13,5 @@
 "People gravitate toward the standard you set, not the standard you request."
 
 “With gratitude, optimism is sustainable.” - Michael J Fox
+
+“It is difficult to get a man to understand something, when his salary depends on his not understanding it.” – Upton Sinclair
