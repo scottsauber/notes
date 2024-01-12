@@ -16,4 +16,14 @@ Ask your co-workers for feedback, don't wait for it to come. Create a pull syste
 
 When people hesitate to give honest feedback on an idea, draft, or performance, ask for a 0-10 score. No one ever says 10. Then ask how I can get closer to a 10. It motivates them to start coaching me and motivates me to be coachable. I want to learn how to close the gap.
 
+## Framework for Giving Feedback
+
+1. Create an inviting opening (i.e. "We all want the same thing, we all want to move forward and get past this")
+2. Share intent behind the feedback (i.e. "At the end of the day, what we're trying to do is create a system of honesty and collaboration.")
+3. Describe the specific behavior or results (anonymous feedback doesn't create that)
+4. State the impact and continued effects
+5. Acknowledge your part (i.e. "we focused a lot on the # and I think in retrospect we shouldn't have focused on that aspect.")
+6. Make a request
+7. Listen to the response
+
 Resource: https://www.industriallogic.com/blog/advice-for-giving-feedback/
