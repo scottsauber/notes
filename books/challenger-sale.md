@@ -2,7 +2,7 @@
 
 Listened to on Audible
 
-### Main Premise
+# Main Premise
 
 Most effective sales person is The Challenger. Least effective is Relationship Builder.
 
