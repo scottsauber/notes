@@ -17,3 +17,5 @@ A Challenger does 3 things:
 Challenger must understand the business as well as the customer.
 
 ### Random Notes
+
+- Being a teacher is key
