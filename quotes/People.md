@@ -15,3 +15,5 @@
 “With gratitude, optimism is sustainable.” - Michael J Fox
 
 “It is difficult to get a man to understand something, when his salary depends on his not understanding it.” – Upton Sinclair
+
+"Doubt can only be removed by action."
